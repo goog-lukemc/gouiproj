@@ -1,0 +1,3 @@
+[submodule "cmd/gouiserver"]
+	path = cmd/gouiserver
+	url = https://github.com/goog-lukemc/gouiserver.git
