@@ -7,9 +7,6 @@
 			"path": "../gouidom"
 		},
 		{
-			"path": "../gouicomponent"
-		},
-		{
 			"path": "../gouiserver"
 		},
 		{
@@ -17,6 +14,9 @@
 		},
 		{
 			"path": "../gouiscreen"
+		},
+		{
+			"path": "../gouielement"
 		}
 	],
 	"settings": {}

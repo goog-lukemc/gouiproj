@@ -6,5 +6,7 @@ github.com/goog-lukemc/gouidom v0.0.0-20200504130024-c92fcab294dd h1:E8jBazW1xSL
 github.com/goog-lukemc/gouidom v0.0.0-20200504130024-c92fcab294dd/go.mod h1:YwcaCFiw4Y7uY6SG+Yb7EHtEnAzG3ppx+/v2OsnaNO0=
 github.com/goog-lukemc/gouielement v0.0.0-20200526002840-bcc51f6a4d13 h1:65l+LWm5Vk9m8hl2IYf02RJhgYHUi+PvRMf49Bh8bqQ=
 github.com/goog-lukemc/gouielement v0.0.0-20200526002840-bcc51f6a4d13/go.mod h1:bIrDjkoHbJ2QLsqbJW1MF+gZ5k4FwSIW8WyWm0H8GHA=
+github.com/goog-lukemc/gouielement v0.0.0-20200526012208-4a511d9ff222 h1:T35FsLmxv3mBrMJVpwWfxIs+6sWcbAhNi9rIEPBQYcY=
+github.com/goog-lukemc/gouielement v0.0.0-20200526012208-4a511d9ff222/go.mod h1:esUHy9W4ysSGzf/bEKBwXph95bhFSTvq/oO8Iukt5oQ=
 github.com/goog-lukemc/tserver v0.0.0-20200512162719-aa4dffa3a601 h1:CD0pcpWtMEf2C4eEX12VHTbHFKRJPwliwQbUZo70Cr8=
 github.com/goog-lukemc/tserver v0.0.0-20200512162719-aa4dffa3a601/go.mod h1:MFoqJJD4+HmYd9TWeZaduyzGcQ+cj/tOmOb/mC8rlIA=

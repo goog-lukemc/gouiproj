@@ -3,6 +3,7 @@ package main
 import (
 	"github.com/goog-lukemc/gouidom"
 	"github.com/goog-lukemc/gouielement"
+	"github.com/goog-lukemc/gouiscreen"
 )
 
 var unloadMsg chan int
@@ -21,7 +22,7 @@ func main() {
 	}
 
 	comp := gouielement.NewElementLib(app)
-	comp.Readable()
+	gouiscreen.Reader(nil, comp, "html/body")
 
 	<-done
 }
