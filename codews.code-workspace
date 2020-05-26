@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../gouidom"
+		},
+		{
+			"path": "../gouicomponent"
+		},
+		{
+			"path": "../gouiserver"
+		},
+		{
+			"path": "../tserver"
+		},
+		{
+			"path": "../gouiscreen"
+		}
+	],
+	"settings": {}
+}
