@@ -7,9 +7,6 @@
 			"path": "../gouidom"
 		},
 		{
-			"path": "../gouiserver"
-		},
-		{
 			"path": "../tserver"
 		},
 		{
@@ -19,5 +16,7 @@
 			"path": "../gouielement"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gouiscreen"
+	}
 }
